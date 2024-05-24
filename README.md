@@ -57,9 +57,8 @@
 </p>
 
 <p align="center">
-  <img height="50%" width="auto" src="https://github-readme-stats.vercel.app/api?username=dragan002&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
-  <img height="50%" width="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dragan002&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=dragan002&theme=darcula&hide_border=true&background=FFFFFF00">
-
+  <img height="50%" width="auto" src="https://github-readme-stats.vercel.app/api?username=dragan002&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000&cache_seconds=1800">
+  <img height="50%" width="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dragan002&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&cache_seconds=1800">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=dragan002&theme=darcula&hide_border=true&background=FFFFFF00&cache_seconds=1800">
 </p>
 
